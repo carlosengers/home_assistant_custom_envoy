@@ -1,6 +1,6 @@
 {
-  "domain": "enphase_envoy",
-  "name": "Enphase Envoy (DEV)",
+  "domain": "enphase_envoy CSS",
+  "name": "Enphase Envoy CSS (DEV)",
   "documentation": "https://www.home-assistant.io/integrations/enphase_envoy",
   "requirements": ["envoy-utils"],
   "codeowners": ["@gtdiehl"],
